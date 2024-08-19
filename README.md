@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rjhari10
-- 👀 I’m interested in PowerShell, PowerCLI, Veeam B&R
-- 🌱 I’m currently learning Git Basics
+- 👀 I’m interested in IAM, PowerShell, C#, .NET
+- 🌱 I’m currently learning Git Basics and basic C#
 - 💞️ I’m looking to collaborate on anything to improve my coding experience
 - 📫 How to reach me ...
 
